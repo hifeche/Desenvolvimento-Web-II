@@ -1,0 +1,21 @@
+*Ano Bissexto*
+Faça um programa que imprima os anos bissextos que existem entre os anos 1980 e 2026. Para ser um ano bissexto, o mesmo deve-se enquadrar em uma das regras abaixo:
+
+- Ser divisível por 4 e não divisível por 100
+
+- Ser divisível por 4 e ser divisível por 400
+
+Um número ser divisível por outro indica que o resto dessa divisão é igual a 0.
+
+Enviar na tarefa apenas um arquivo PHP com o código.
+===========================================================================================================================================================================
+
+Aritmética
+Escreva um programa em PHP que exiba uma progressão aritmética. Ele deve receber pelo método GET os seguintes parâmetros:
+inicio = número do início da progressão aritmética
+razao = razão da progressão aritmética
+quantidade = quantidade de números (termos) da progressão aritmética.
+
+Caso os 3 parâmetros tenham sido enviados, exiba a progressão aritmética requisitada. Caso contrário, exiba um mensagem informando qual ou quais parâmetros não foram informados.
+
+Dica: o próximo termo da progressão aritmética é calculado pela soma do termo anterior e da razão.
